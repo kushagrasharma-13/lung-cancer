@@ -1,0 +1,10 @@
+keras
+numpy
+Django
+autogen
+pickle5
+Werkzeug
+opencv-python
+python-dotenv
+djangorestframework
+django-cors-headers
